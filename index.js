@@ -7,9 +7,9 @@ function whisper(string) {
 }; 
 
 function logShout(string) {
-  const spy = "hello";
   console.log(string.toUpperCase)
 };
+logShout('hello')
 
 //describe('logShout(string)', function() {
  // it('calls console.log() its one argument in all caps', function() {
