@@ -9,7 +9,8 @@ function whisper(string) {
 function logShout(string) {
   console.log(string.toUpperCase)
 };
-logShout('hello')
+logShout('hello');
+function spyOn
 
 //describe('logShout(string)', function() {
  // it('calls console.log() its one argument in all caps', function() {
